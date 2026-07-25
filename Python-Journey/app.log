@@ -1,0 +1,9 @@
+2026-07-24 12:00:59,276 - root - DEBUG - This is a debug message
+2026-07-24 12:00:59,276 - root - INFO - This is a info message
+2026-07-24 12:00:59,276 - root - WARNING - This is a warning message
+2026-07-24 12:00:59,276 - root - ERROR - This is a error message
+2026-07-24 12:00:59,277 - root - CRITICAL - This is an error message
+2026-07-24 12:19:19,123 - Module 1 - DEBUG - This is a debug message for module 1
+2026-07-24 12:20:10,489 - Module 1 - DEBUG - This is a debug message for module 1
+2026-07-24 12:26:00,551 - Module 1 - DEBUG - This is a debug message for module 1
+2026-07-24 12:26:00,552 - Module 2 - WARNING - This is a warning message for module 2
