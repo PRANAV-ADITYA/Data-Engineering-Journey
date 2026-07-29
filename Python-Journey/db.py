@@ -1,7 +1,9 @@
 import mysql.connector
+from contextlib import contextmanager
 
 
-def get_db_cursor():
+@contextmanager
+def get_db_cursor(commit = False):
 # Create a connection
     connection = mysql.connector.connect(
         host = 'localhost',
@@ -18,29 +20,42 @@ def get_db_cursor():
 
 # Create a cursor to execute the sql queries
     cursor = connection.cursor()
-    return connection,cursor
+    yield cursor
+
+    if(commit):
+        connection.commit()
 
 
-def fetch_all_records():
-    connection,cursor = get_db_cursor()
-    cursor.execute('select * from expenses')
-# fetchall() retrieves those records from the mysql
-    rows=cursor.fetchall()
-    for row in rows:
-        print(row)
+    cursor.close()
     connection.close()
 
-
+def fetch_all_records():
+    
+# fetchall() retrieves those records from the mysql
+    with get_db_cursor() as cursor:
+        cursor.execute('select * from expenses')
+        rows=cursor.fetchall()
+        for row in rows:
+            print(row)
 
 
 def fetch_records_for_date(expense_date):
-    connection,cursor = get_db_cursor()
-    cursor.execute('select * from expenses where expense_date = %s',(expense_date,))
 
 # fetchall() retrieves those records from the mysql
-    rows=cursor.fetchall()
-    for row in rows:
-        print(row)
-    connection.close()
+    with get_db_cursor() as cursor:
+        cursor.execute('select * from expenses where expense_date = %s',(expense_date,))
+        rows=cursor.fetchall()
+        for row in rows:
+            print(row)
 
-fetch_records_for_date("2024-08-01")
+def insert_expense(id, expense_date, amount, category, notes):
+    with get_db_cursor(commit = True) as cursor:
+        cursor.execute(
+            "INSERT INTO expenses  VALUES (%s,%s, %s, %s, %s)",
+            (id, expense_date, amount, category, notes)
+        )
+
+# fetch_records_for_date("2024-08-01")
+
+insert_expense(10,"2024-08-20", 300, "Food", "Panipuri")
+
