@@ -8,16 +8,6 @@ import re
 
 
 
-
-def preprocess_image(img):
-    gray=cv2.cvtColor(np.array(img),cv2.COLOR_BGR2GRAY)
-    Image.fromarray(gray).show()
-    resized = cv2.resize(gray,None,fx=1.5,fy=1.5,interpolation=cv2.INTER_LINEAR)
-    processed_image = cv2.adaptiveThreshold(resized,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,61,11)
-    return processed_image
-
-
-
 def extract(file_path,file_format):
     pages = convert_from_path(file_path)
     document_text = ''
@@ -26,13 +16,24 @@ def extract(file_path,file_format):
         processed_image = preprocess_image(page)
         text = pc.image_to_string(processed_image,lang='eng')
         document_text += '\n'+text
-    return document_text
-
+        
 
     if file_format=='prescription':
-        pass
+        extracted_info=PrescriptionParser(document_text).parse()
     elif file_format == 'patient_details':
-        pass
+       extracted_info = PatientDetailsParser(document_text).parse()
+    else:
+        raise Exception("Invalid file format:{file_format}")
+
+    
+    return extracted_info
+
+def preprocess_image(img):
+    gray=cv2.cvtColor(np.array(img),cv2.COLOR_BGR2GRAY)
+    Image.fromarray(gray).show()
+    resized = cv2.resize(gray,None,fx=1.5,fy=1.5,interpolation=cv2.INTER_LINEAR)
+    processed_image = cv2.adaptiveThreshold(resized,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,61,11)
+    return processed_image
 
 
 
@@ -72,3 +73,48 @@ class PrescriptionParser(MedicalDocParser):
             if(len(match)>0):
                 return match[0].strip()
 
+
+class PatientDetailsParser(MedicalDocParser):
+    def __init__(self,text):
+        MedicalDocParser.__init__(self,text)
+    def parse(self):
+        return {
+            'patient_name':self.get_patient_name(),
+            'phone_number':self.get_phone_number(),
+            'medical_problems':self.get_medical_problems(),
+            'hepatitis_b_vaccination':self.hepatitis_b_vaccination(),
+            'patient_birth_date':self.get_birth_date()
+        }
+
+    def get_birth_date(self):
+        pattern = r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}\s+\d{4}'
+        date_matches = re.search(pattern,self.text).group()
+        return date_matches
+
+
+    def get_patient_name(self):
+        pattern = 'Patient Information(.*?)\(\d{3}\)'
+        matches = re.findall(pattern,self.text,flags = re.DOTALL)
+        final_match = matches[0].strip()
+        final_match=final_match.replace('Birth Date','')
+        final_match=final_match.replace(self.get_birth_date(),'').strip()
+        return final_match
+
+    def get_phone_number(self):
+        pattern='(\(\d{3}\) \d{3}-\d{4}) Weight'
+        matches = re.findall(pattern,self.text)
+        final_match = matches[0].strip()
+        return final_match
+
+
+    def get_medical_problems(self):
+            pattern = 'List any Medical Problems \(asthma, seizures, headaches}:(.*)Name'
+            matches = re.findall(pattern,self.text,re.DOTALL)
+            final_match = matches[0].strip()
+            return final_match
+
+    def hepatitis_b_vaccination(self):
+        pattern = 'Have you had the Hepatitis B vaccination\?.*?(Yes|No)'
+        matches = re.findall(pattern,self.text,re.DOTALL)
+        final_match = matches[0].strip()
+        return final_match
