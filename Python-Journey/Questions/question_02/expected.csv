@@ -1,0 +1,6 @@
+sentence_1,sentence_2,output
+Hi I am Rama. I am here only,here only in EY,"{'only': 1, 'here': 1}"
+Data is the new oil but clean data is gold,"Without clean data, oil becomes useless","{'data': 1, 'oil': 1, 'clean': 1}"
+Power BI and Tableau are data visualization tools,Power BI connects to multiple sources,"{'BI': 1, 'Power': 1}"
+Python is great for automation,Automation is the key to productivity,{'is': 1}
+Practice makes a data analyst perfect,Practice with real datasets makes you perfect,"{'perfect': 1, 'Practice': 1, 'makes': 1}"

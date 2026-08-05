@@ -1,0 +1,501 @@
+user_id,title,seconds,ts,user_name
+14,The Prestige,881,2025-10-21 00:00:00,Lisa Palmer
+19,Titanic,1588,2025-10-21 00:10:00,Ashley Benjamin
+91,The Lion King,121,2025-10-21 00:20:00,Elizabeth Walls
+81,The Wolf of Wall Street,992,2025-10-21 00:30:00,Michael Hamilton
+9,The Godfather,1666,2025-10-21 00:40:00,Jessica Schmitt
+18,The Lion King,175,2025-10-21 00:50:00,Matthew Burton
+62,Star Wars: Episode V,774,2025-10-21 01:00:00,Melanie Green
+43,Schindler's List,1580,2025-10-21 01:10:00,William Warren
+14,The Lion King,227,2025-10-21 01:20:00,Derek Moore
+95,The Shawshank Redemption,241,2025-10-21 01:30:00,Adam Wilson
+48,Star Wars: Episode V,414,2025-10-21 01:40:00,Tony Johnson
+92,Parasite,654,2025-10-21 01:50:00,Erica Meyers
+93,The Lord of the Rings,1424,2025-10-21 02:00:00,Grace Cordova
+5,The Lord of the Rings,436,2025-10-21 02:10:00,Shelia Glass
+74,Inception,668,2025-10-21 02:20:00,Karen Powell
+83,Inception,1362,2025-10-21 02:30:00,Paula Mitchell
+56,The Dark Knight,1314,2025-10-21 02:40:00,Courtney Blackwell
+15,Fight Club,563,2025-10-21 02:50:00,Valerie Paul
+52,The Avengers,902,2025-10-21 03:00:00,Crystal Schaefer
+87,The Departed,992,2025-10-21 03:10:00,Jay Larson
+97,Forrest Gump,76,2025-10-21 03:20:00,Yolanda Gibbs
+37,Pulp Fiction,1003,2025-10-21 03:30:00,Michael Crane
+35,The Prestige,1230,2025-10-21 03:40:00,Lindsey Gray
+52,Interstellar,332,2025-10-21 03:50:00,Kimberly Sellers
+79,The Matrix,1191,2025-10-21 04:00:00,Jay Sampson
+55,The Lord of the Rings,1061,2025-10-21 04:10:00,Stephanie Smith
+43,Inception,205,2025-10-21 04:20:00,David Garcia
+89,The Lord of the Rings,68,2025-10-21 04:30:00,Robert Anderson
+29,Pulp Fiction,156,2025-10-21 04:40:00,Robert Cook
+12,Schindler's List,1229,2025-10-21 04:50:00,Christopher Rose MD
+88,The Godfather,1325,2025-10-21 05:00:00,Samuel Carson
+60,The Dark Knight,1675,2025-10-21 05:10:00,Nichole Carpenter
+72,The Godfather,242,2025-10-21 05:20:00,Amanda Murray
+20,The Lion King,832,2025-10-21 05:30:00,Geoffrey Cooper
+5,The Lion King,357,2025-10-21 05:40:00,Corey Wade
+13,Inception,774,2025-10-21 05:50:00,Martin Mcdonald
+82,The Avengers,1301,2025-10-21 06:00:00,Veronica Roman
+2,The Shawshank Redemption,1710,2025-10-21 06:10:00,Joseph Thomas
+60,The Matrix,1380,2025-10-21 06:20:00,Thomas Brown
+13,The Shawshank Redemption,710,2025-10-21 06:30:00,Scott Alvarez
+47,The Godfather,1480,2025-10-21 06:40:00,Miranda Garcia
+43,The Matrix,735,2025-10-21 06:50:00,Susan James
+99,Titanic,1140,2025-10-21 07:00:00,Eric Simpson
+48,The Prestige,1559,2025-10-21 07:10:00,Sarah Blake
+30,Gladiator,1201,2025-10-21 07:20:00,James Wagner
+45,Titanic,1103,2025-10-21 07:30:00,Amy Morris
+16,The Wolf of Wall Street,173,2025-10-21 07:40:00,Wesley Gaines
+76,Gladiator,1357,2025-10-21 07:50:00,Justin Campbell
+72,The Prestige,694,2025-10-21 08:00:00,Lee Lopez
+89,Fight Club,1251,2025-10-21 08:10:00,Katelyn Coleman
+33,Inception,824,2025-10-21 08:20:00,Erika Robertson
+51,Schindler's List,1554,2025-10-21 08:30:00,Kristin Diaz
+67,Parasite,1305,2025-10-21 08:40:00,Danny Sanders
+30,The Lion King,918,2025-10-21 08:50:00,Lauren Bradley
+67,Titanic,1200,2025-10-21 09:00:00,Jill Wood
+19,The Departed,701,2025-10-21 09:10:00,Suzanne Dixon
+34,Inception,250,2025-10-21 09:20:00,Dustin Garcia
+32,Inception,1309,2025-10-21 09:30:00,Steven Parks
+1,Interstellar,1006,2025-10-21 09:40:00,Nancy Ray
+14,Forrest Gump,1663,2025-10-21 09:50:00,Dustin Wheeler
+40,The Lion King,1172,2025-10-21 10:00:00,Renee Watson
+84,The Godfather,828,2025-10-21 10:10:00,Brenda Dixon
+66,Gladiator,1212,2025-10-21 10:20:00,Stephanie Scott
+13,The Lion King,1460,2025-10-21 10:30:00,Kathryn Maxwell
+3,The Dark Knight,519,2025-10-21 10:40:00,Michael Donovan
+17,The Matrix,283,2025-10-21 10:50:00,Ellen Mcmahon
+94,The Lord of the Rings,1650,2025-10-21 11:00:00,Andrea Villa
+73,Schindler's List,1642,2025-10-21 11:10:00,Marie Harris
+15,The Matrix,189,2025-10-21 11:20:00,Thomas Hunt
+57,Parasite,1252,2025-10-21 11:30:00,Caleb Lewis
+46,Pulp Fiction,396,2025-10-21 11:40:00,Tony Oliver
+33,Titanic,1347,2025-10-21 11:50:00,Matthew Perez
+71,The Godfather,274,2025-10-21 12:00:00,Edward Gross
+91,Titanic,1258,2025-10-21 12:10:00,Megan Miller
+70,The Departed,1503,2025-10-21 12:20:00,Pamela Warner
+92,The Avengers,603,2025-10-21 12:30:00,Alan Mason
+8,The Lion King,858,2025-10-21 12:40:00,Brandon Khan
+66,The Shawshank Redemption,98,2025-10-21 12:50:00,Gregory Henderson
+12,Gladiator,1278,2025-10-21 13:00:00,Angela Bailey
+42,The Godfather,1797,2025-10-21 13:10:00,Brandon Baker
+54,Inception,435,2025-10-21 13:20:00,Joshua Alvarez
+26,The Lord of the Rings,1326,2025-10-21 13:30:00,Brian Obrien
+46,The Avengers,638,2025-10-21 13:40:00,Tanya Gray
+49,The Prestige,218,2025-10-21 13:50:00,Isaac Flores
+38,The Avengers,178,2025-10-21 14:00:00,John Buchanan
+20,Fight Club,1795,2025-10-21 14:10:00,Tara Wallace
+62,Titanic,1684,2025-10-21 14:20:00,Matthew Vazquez
+91,Titanic,111,2025-10-21 14:30:00,Jonathan Hernandez
+25,The Matrix,271,2025-10-21 14:40:00,William Meza
+35,Gladiator,80,2025-10-21 14:50:00,Jonathon Harrison
+46,Titanic,80,2025-10-21 15:00:00,Christine Olson
+81,The Departed,1118,2025-10-21 15:10:00,Amy Gonzalez
+41,Interstellar,464,2025-10-21 15:20:00,Robert Martin
+88,The Dark Knight,1593,2025-10-21 15:30:00,Jacob Gomez
+38,The Departed,1132,2025-10-21 15:40:00,Luke Morales
+85,The Dark Knight,230,2025-10-21 15:50:00,Christina Fitzpatrick
+94,Titanic,1659,2025-10-21 16:00:00,Daniel Stevenson
+99,The Dark Knight,467,2025-10-21 16:10:00,Chris Moore
+4,Gladiator,1300,2025-10-21 16:20:00,Emily Pierce
+67,Titanic,328,2025-10-21 16:30:00,Sandra Lane
+39,Pulp Fiction,1241,2025-10-21 16:40:00,Caleb Mendoza
+79,Titanic,178,2025-10-21 16:50:00,Walter Li
+78,Inception,1511,2025-10-21 17:00:00,Lori Martinez
+57,The Lion King,1176,2025-10-21 17:10:00,Terry Lawrence
+19,The Shawshank Redemption,1308,2025-10-21 17:20:00,John Dodson
+77,The Wolf of Wall Street,1722,2025-10-21 17:30:00,Susan Chapman
+2,The Godfather,546,2025-10-21 17:40:00,Theresa Davenport
+64,The Matrix,1759,2025-10-21 17:50:00,Matthew Walton
+52,The Lion King,1352,2025-10-21 18:00:00,Jason Boyle
+80,Star Wars: Episode V,607,2025-10-21 18:10:00,Joanne Huang
+46,Pulp Fiction,896,2025-10-21 18:20:00,Shannon Herrera
+38,The Lord of the Rings,1670,2025-10-21 18:30:00,Nicole Miller
+45,The Prestige,272,2025-10-21 18:40:00,Shane Reed
+45,Schindler's List,210,2025-10-21 18:50:00,Kari Tucker
+57,The Godfather,205,2025-10-21 19:00:00,Jeffrey Ruiz
+40,The Lion King,1736,2025-10-21 19:10:00,Tracy Woodard
+64,The Matrix,1246,2025-10-21 19:20:00,Mr. Hector King
+47,The Departed,537,2025-10-21 19:30:00,Troy Edwards
+63,The Avengers,1743,2025-10-21 19:40:00,Olivia Green
+23,The Godfather,428,2025-10-21 19:50:00,Regina Davis
+36,Forrest Gump,1665,2025-10-21 20:00:00,Tammy Drake
+83,Fight Club,1025,2025-10-21 20:10:00,Corey Herman
+90,The Matrix,353,2025-10-21 20:20:00,Jason Gates
+39,The Departed,1064,2025-10-21 20:30:00,Michelle Perry
+18,Schindler's List,1047,2025-10-21 20:40:00,Kenneth Turner
+23,The Wolf of Wall Street,1530,2025-10-21 20:50:00,Michele Taylor
+71,Pulp Fiction,1629,2025-10-21 21:00:00,David Fernandez
+54,Star Wars: Episode V,1632,2025-10-21 21:10:00,Rebecca Lewis
+18,Inception,398,2025-10-21 21:20:00,Frank Russo
+40,Interstellar,1730,2025-10-21 21:30:00,Taylor Bradley
+39,The Lion King,1156,2025-10-21 21:40:00,Seth Bautista
+21,Star Wars: Episode V,489,2025-10-21 21:50:00,Drew Castillo
+18,The Departed,207,2025-10-21 22:00:00,John Castro
+99,The Shawshank Redemption,743,2025-10-21 22:10:00,Michael Cruz DDS
+51,Schindler's List,76,2025-10-21 22:20:00,Vincent Brown
+76,Schindler's List,1507,2025-10-21 22:30:00,James Mayer
+29,Gladiator,680,2025-10-21 22:40:00,Carlos David
+36,The Avengers,1092,2025-10-21 22:50:00,Matthew Saunders
+56,The Godfather,1200,2025-10-21 23:00:00,Tammy Ryan
+41,Titanic,385,2025-10-21 23:10:00,Bonnie Mason
+29,Forrest Gump,1551,2025-10-21 23:20:00,Jacqueline Johnson
+79,Inception,146,2025-10-21 23:30:00,Mark Roberson MD
+84,The Matrix,996,2025-10-21 23:40:00,Seth Perez
+60,The Avengers,583,2025-10-21 23:50:00,Jessica Ramirez
+17,The Lord of the Rings,857,2025-10-22 00:00:00,Joanne Reed
+91,The Wolf of Wall Street,1147,2025-10-22 00:10:00,Gina Ellis
+38,Parasite,1599,2025-10-22 00:20:00,Vanessa Thomas
+44,The Shawshank Redemption,1780,2025-10-22 00:30:00,Amy Weber
+29,Star Wars: Episode V,574,2025-10-22 00:40:00,Danielle Carrillo
+41,Interstellar,360,2025-10-22 00:50:00,Angela Bowman
+39,The Lion King,1624,2025-10-22 01:00:00,Alexander May MD
+32,The Lion King,294,2025-10-22 01:10:00,Olivia Atkinson
+10,The Matrix,860,2025-10-22 01:20:00,Willie Horn
+57,Interstellar,304,2025-10-22 01:30:00,Barbara Benitez
+100,The Avengers,609,2025-10-22 01:40:00,Brett Green
+24,Gladiator,244,2025-10-22 01:50:00,Melissa Hart
+31,The Departed,1435,2025-10-22 02:00:00,Gerald Jimenez
+84,Interstellar,1297,2025-10-22 02:10:00,Denise Allen
+16,Star Wars: Episode V,414,2025-10-22 02:20:00,Bryan Sweeney
+23,The Departed,1747,2025-10-22 02:30:00,Shane Sanchez
+26,The Lord of the Rings,1690,2025-10-22 02:40:00,Mary Proctor
+41,The Godfather,923,2025-10-22 02:50:00,Emily Johnson
+73,Star Wars: Episode V,1069,2025-10-22 03:00:00,Ashley Bruce
+92,Pulp Fiction,1341,2025-10-22 03:10:00,Mr. Scott Lewis
+28,The Godfather,263,2025-10-22 03:20:00,Stephen Rogers
+87,Interstellar,834,2025-10-22 03:30:00,Mark Barber
+23,The Departed,1475,2025-10-22 03:40:00,Sheena Contreras
+65,Star Wars: Episode V,1576,2025-10-22 03:50:00,Dr. Kevin Huff DDS
+41,Forrest Gump,626,2025-10-22 04:00:00,Diana York
+74,The Lord of the Rings,996,2025-10-22 04:10:00,Robert Jones
+72,The Godfather,305,2025-10-22 04:20:00,Mary Mitchell
+95,The Lion King,454,2025-10-22 04:30:00,Johnathan Lee
+96,Schindler's List,1343,2025-10-22 04:40:00,Robert George
+13,The Wolf of Wall Street,1173,2025-10-22 04:50:00,Paul Hicks
+93,The Lord of the Rings,972,2025-10-22 05:00:00,Shannon Chase
+60,Fight Club,1491,2025-10-22 05:10:00,Charles Clark
+48,Parasite,1498,2025-10-22 05:20:00,Ronald Carey
+33,Titanic,1159,2025-10-22 05:30:00,Kristina Smith
+7,Titanic,1054,2025-10-22 05:40:00,Christopher Macdonald
+52,Interstellar,756,2025-10-22 05:50:00,Donna Smith
+94,Star Wars: Episode V,570,2025-10-22 06:00:00,Zachary Perez
+7,Schindler's List,1683,2025-10-22 06:10:00,Lisa Carroll
+78,Gladiator,794,2025-10-22 06:20:00,Philip Garcia
+8,The Wolf of Wall Street,1739,2025-10-22 06:30:00,Jackson Smith
+39,The Dark Knight,650,2025-10-22 06:40:00,Richard Spencer
+19,Titanic,1530,2025-10-22 06:50:00,Christine Davidson
+55,The Wolf of Wall Street,486,2025-10-22 07:00:00,Brittany Pennington
+8,Parasite,668,2025-10-22 07:10:00,Eric Silva
+88,The Lord of the Rings,189,2025-10-22 07:20:00,Jessica Phillips
+16,The Prestige,230,2025-10-22 07:30:00,Mr. Matthew Gibson
+28,The Departed,894,2025-10-22 07:40:00,Melissa Jones
+73,The Wolf of Wall Street,673,2025-10-22 07:50:00,Gina Sanchez
+88,Fight Club,309,2025-10-22 08:00:00,Anthony Butler
+4,The Godfather,415,2025-10-22 08:10:00,Tracy Gilbert
+87,The Godfather,1559,2025-10-22 08:20:00,Monica Johnson
+57,Fight Club,1598,2025-10-22 08:30:00,Cynthia Miranda
+30,The Prestige,297,2025-10-22 08:40:00,David Jones
+94,The Matrix,1261,2025-10-22 08:50:00,Tracy Scott MD
+89,Pulp Fiction,380,2025-10-22 09:00:00,Steven Bradshaw
+53,The Shawshank Redemption,129,2025-10-22 09:10:00,Crystal Hood
+70,The Shawshank Redemption,817,2025-10-22 09:20:00,Rhonda Shaw
+4,Forrest Gump,902,2025-10-22 09:30:00,Kristin Whitehead
+31,Inception,228,2025-10-22 09:40:00,Robert Chan
+91,The Wolf of Wall Street,994,2025-10-22 09:50:00,Kelsey Jones
+96,Parasite,1745,2025-10-22 10:00:00,Connie Wise
+90,Fight Club,426,2025-10-22 10:10:00,Karen Ponce
+91,Titanic,1643,2025-10-22 10:20:00,Michael Evans
+81,The Lord of the Rings,1442,2025-10-22 10:30:00,Shawn Stuart
+74,Interstellar,836,2025-10-22 10:40:00,Katherine Stewart
+57,Inception,477,2025-10-22 10:50:00,April Carroll
+10,Star Wars: Episode V,1458,2025-10-22 11:00:00,Rebecca Hamilton
+52,Interstellar,1136,2025-10-22 11:10:00,Mrs. Laura Myers
+90,Titanic,83,2025-10-22 11:20:00,Tiffany Johnson
+34,The Lord of the Rings,1156,2025-10-22 11:30:00,Nicholas Ayers
+54,Titanic,181,2025-10-22 11:40:00,Matthew Barnes
+11,Forrest Gump,251,2025-10-22 11:50:00,Jeffrey Diaz
+65,The Shawshank Redemption,302,2025-10-22 12:00:00,Andrew Wiggins
+82,The Prestige,760,2025-10-22 12:10:00,Lisa Dalton
+42,The Wolf of Wall Street,85,2025-10-22 12:20:00,Madeline Weaver
+88,The Avengers,1168,2025-10-22 12:30:00,Michael Bird
+80,The Dark Knight,372,2025-10-22 12:40:00,Rachel Brown
+79,Interstellar,493,2025-10-22 12:50:00,Thomas Parker
+96,The Matrix,1388,2025-10-22 13:00:00,Nicholas Wood
+16,The Lion King,748,2025-10-22 13:10:00,Kimberly Harris
+88,The Shawshank Redemption,934,2025-10-22 13:20:00,Robert Gregory
+74,The Prestige,1742,2025-10-22 13:30:00,Karen Martin
+7,Inception,1447,2025-10-22 13:40:00,Andrew Williams
+35,The Prestige,1385,2025-10-22 13:50:00,Joanna Dixon
+17,The Matrix,1758,2025-10-22 14:00:00,Robert Taylor
+65,Star Wars: Episode V,86,2025-10-22 14:10:00,Kelly Jones
+12,The Matrix,277,2025-10-22 14:20:00,Keith Hobbs
+96,Fight Club,1393,2025-10-22 14:30:00,Sarah Weber
+95,Pulp Fiction,447,2025-10-22 14:40:00,Meghan Holmes
+17,The Lord of the Rings,694,2025-10-22 14:50:00,Debbie Harris
+62,Pulp Fiction,1800,2025-10-22 15:00:00,Emily Ho
+4,Fight Club,1472,2025-10-22 15:10:00,Travis Young
+79,Schindler's List,1705,2025-10-22 15:20:00,Tyler Taylor
+45,The Dark Knight,656,2025-10-22 15:30:00,Christopher Smith
+21,Schindler's List,403,2025-10-22 15:40:00,Keith Cobb
+68,The Dark Knight,1420,2025-10-22 15:50:00,Stacey Wade
+52,The Wolf of Wall Street,678,2025-10-22 16:00:00,Jennifer Gross
+71,Schindler's List,353,2025-10-22 16:10:00,David Stewart
+62,The Avengers,593,2025-10-22 16:20:00,Tina Fowler
+57,The Matrix,1288,2025-10-22 16:30:00,Carolyn Wagner
+52,Forrest Gump,1757,2025-10-22 16:40:00,Dennis Welch
+68,The Dark Knight,1345,2025-10-22 16:50:00,Kellie Roach
+32,Inception,137,2025-10-22 17:00:00,Jared Lozano
+21,Schindler's List,143,2025-10-22 17:10:00,Linda Rodriguez
+56,Pulp Fiction,970,2025-10-22 17:20:00,Nicole Young
+32,Pulp Fiction,1750,2025-10-22 17:30:00,Carla Mendoza
+6,Fight Club,1685,2025-10-22 17:40:00,Debra Knight
+36,Fight Club,891,2025-10-22 17:50:00,Jordan Parker
+76,Schindler's List,445,2025-10-22 18:00:00,Mario Johnson
+10,Parasite,1004,2025-10-22 18:10:00,Breanna Santos
+19,The Shawshank Redemption,914,2025-10-22 18:20:00,Douglas Le
+26,The Matrix,1078,2025-10-22 18:30:00,Matthew Collins MD
+2,The Dark Knight,186,2025-10-22 18:40:00,Caitlyn Greer
+35,The Avengers,276,2025-10-22 18:50:00,Jacqueline Kidd
+65,Titanic,1072,2025-10-22 19:00:00,Donna Reid
+92,Parasite,1440,2025-10-22 19:10:00,John Acosta
+44,Inception,269,2025-10-22 19:20:00,Charles Edwards
+68,Star Wars: Episode V,340,2025-10-22 19:30:00,Richard Flores
+72,Interstellar,1700,2025-10-22 19:40:00,John Aguilar
+49,The Dark Knight,185,2025-10-22 19:50:00,Gregory Welch
+64,The Prestige,1302,2025-10-22 20:00:00,Thomas Mccoy
+70,Inception,157,2025-10-22 20:10:00,Deborah Bender
+58,Gladiator,347,2025-10-22 20:20:00,John Nelson
+4,The Shawshank Redemption,627,2025-10-22 20:30:00,William Mckay
+66,Inception,1366,2025-10-22 20:40:00,Jennifer Hill
+91,The Shawshank Redemption,1396,2025-10-22 20:50:00,Tony Smith
+69,The Avengers,96,2025-10-22 21:00:00,Andrea Matthews
+21,Pulp Fiction,1634,2025-10-22 21:10:00,Joseph Bailey
+95,The Lion King,239,2025-10-22 21:20:00,Kari Schmidt
+37,Titanic,276,2025-10-22 21:30:00,Tracy Beck
+94,Parasite,1459,2025-10-22 21:40:00,Daniel Hoffman
+33,Gladiator,1395,2025-10-22 21:50:00,Gina Reid
+43,Star Wars: Episode V,1092,2025-10-22 22:00:00,Cameron Rodgers
+53,Star Wars: Episode V,662,2025-10-22 22:10:00,Carol Bradshaw
+64,The Lord of the Rings,602,2025-10-22 22:20:00,Michael Sanders
+76,The Avengers,1309,2025-10-22 22:30:00,Kathryn Phillips
+43,The Departed,1603,2025-10-22 22:40:00,Antonio Wilkerson
+15,Forrest Gump,1657,2025-10-22 22:50:00,Jennifer Moreno
+91,Star Wars: Episode V,342,2025-10-22 23:00:00,Tim Holder
+53,Interstellar,524,2025-10-22 23:10:00,Charles Moore II
+39,The Dark Knight,1765,2025-10-22 23:20:00,Ryan Matthews
+83,Pulp Fiction,323,2025-10-22 23:30:00,Jennifer Meza
+37,Forrest Gump,1061,2025-10-22 23:40:00,Dave Foster
+34,The Godfather,1296,2025-10-22 23:50:00,Jennifer Estes
+80,The Departed,896,2025-10-23 00:00:00,Dennis Martinez
+61,Schindler's List,719,2025-10-23 00:10:00,Kathryn Everett
+31,The Prestige,1255,2025-10-23 00:20:00,Carol Dillon
+23,The Wolf of Wall Street,148,2025-10-23 00:30:00,Peter Taylor
+73,Inception,304,2025-10-23 00:40:00,Dawn Gill
+97,Inception,1710,2025-10-23 00:50:00,Charles Steele DDS
+31,Titanic,877,2025-10-23 01:00:00,Anthony Lowe
+18,Parasite,996,2025-10-23 01:10:00,Jerome Lee
+14,Star Wars: Episode V,1347,2025-10-23 01:20:00,Frank Johnson
+94,Pulp Fiction,187,2025-10-23 01:30:00,Bethany Owen
+33,Pulp Fiction,240,2025-10-23 01:40:00,Katie Vasquez
+74,The Dark Knight,62,2025-10-23 01:50:00,Jamie Vargas
+46,Fight Club,1257,2025-10-23 02:00:00,Joann Hall
+94,The Dark Knight,1074,2025-10-23 02:10:00,Elizabeth Higgins
+48,The Matrix,1161,2025-10-23 02:20:00,Frank Hopkins
+20,Interstellar,660,2025-10-23 02:30:00,Tyler Hickman
+21,The Avengers,500,2025-10-23 02:40:00,Carla Hill
+23,The Prestige,74,2025-10-23 02:50:00,Maria Lee
+17,Parasite,187,2025-10-23 03:00:00,Timothy Johnson
+44,The Wolf of Wall Street,654,2025-10-23 03:10:00,Sherry Henderson
+72,Interstellar,386,2025-10-23 03:20:00,Anna Ramirez
+14,Schindler's List,254,2025-10-23 03:30:00,Elizabeth Norris
+71,Pulp Fiction,635,2025-10-23 03:40:00,Clinton Romero
+49,The Dark Knight,228,2025-10-23 03:50:00,Joseph Wilson
+86,Interstellar,480,2025-10-23 04:00:00,James Davis
+30,The Lion King,113,2025-10-23 04:10:00,Sara Williams
+6,The Matrix,128,2025-10-23 04:20:00,Steven Jacobson
+49,Fight Club,981,2025-10-23 04:30:00,Garrett Perry
+95,The Departed,1530,2025-10-23 04:40:00,Elizabeth Morgan
+10,The Lion King,998,2025-10-23 04:50:00,Sabrina Chan
+99,The Lord of the Rings,240,2025-10-23 05:00:00,Ann Palmer
+5,The Departed,1606,2025-10-23 05:10:00,Roy King
+6,Fight Club,1570,2025-10-23 05:20:00,Shane Moore
+78,Pulp Fiction,1454,2025-10-23 05:30:00,Linda Mccann
+1,Pulp Fiction,1165,2025-10-23 05:40:00,Jonathan Martinez
+47,The Shawshank Redemption,729,2025-10-23 05:50:00,Terry Gamble DDS
+43,Gladiator,705,2025-10-23 06:00:00,Dr. Linda Duarte
+89,Inception,1047,2025-10-23 06:10:00,Stephen Gray
+61,The Avengers,1278,2025-10-23 06:20:00,Alyssa Golden
+66,The Departed,1667,2025-10-23 06:30:00,Jimmy Hall
+28,Inception,1371,2025-10-23 06:40:00,Kimberly Colon
+77,The Prestige,131,2025-10-23 06:50:00,Hailey Peterson
+91,The Lion King,1147,2025-10-23 07:00:00,Timothy Richardson
+35,The Prestige,587,2025-10-23 07:10:00,Matthew Davis
+98,Fight Club,497,2025-10-23 07:20:00,David Hernandez
+9,Inception,1118,2025-10-23 07:30:00,Kathy Howard
+21,Gladiator,1372,2025-10-23 07:40:00,Nancy Montoya
+92,Pulp Fiction,712,2025-10-23 07:50:00,Manuel Leonard
+51,The Lord of the Rings,626,2025-10-23 08:00:00,Stephanie Kim
+34,Schindler's List,1068,2025-10-23 08:10:00,Frederick Zimmerman
+68,Titanic,1634,2025-10-23 08:20:00,Todd Jones
+26,The Matrix,804,2025-10-23 08:30:00,David Howard
+31,The Avengers,1132,2025-10-23 08:40:00,Jennifer Smith
+32,Star Wars: Episode V,470,2025-10-23 08:50:00,Tara Oliver
+10,The Prestige,900,2025-10-23 09:00:00,Kristen Santos
+35,The Prestige,771,2025-10-23 09:10:00,Deborah Miller
+28,The Prestige,517,2025-10-23 09:20:00,Jennifer Bernard
+70,The Avengers,942,2025-10-23 09:30:00,Jasmine Cook
+30,The Shawshank Redemption,1689,2025-10-23 09:40:00,Kevin Moore
+91,The Departed,1533,2025-10-23 09:50:00,Ronald Love
+23,Titanic,1491,2025-10-23 10:00:00,Elizabeth Case
+29,Pulp Fiction,1234,2025-10-23 10:10:00,John Smith
+80,Pulp Fiction,753,2025-10-23 10:20:00,Bryan Cox
+18,Star Wars: Episode V,865,2025-10-23 10:30:00,Joe Trevino
+34,The Lord of the Rings,802,2025-10-23 10:40:00,Rachel Bridges
+84,Parasite,532,2025-10-23 10:50:00,Cynthia Black
+35,Pulp Fiction,113,2025-10-23 11:00:00,Stacie Perez
+10,The Dark Knight,1497,2025-10-23 11:10:00,Tyler Bridges
+16,The Shawshank Redemption,673,2025-10-23 11:20:00,Valerie Garcia DVM
+62,The Matrix,518,2025-10-23 11:30:00,Anthony Perry
+22,Pulp Fiction,1302,2025-10-23 11:40:00,Melissa Lane
+23,The Lion King,653,2025-10-23 11:50:00,Gail Goodwin
+31,Interstellar,1372,2025-10-23 12:00:00,Paul Combs
+90,The Godfather,1272,2025-10-23 12:10:00,Monica Hickman
+58,Inception,458,2025-10-23 12:20:00,Drew Gray
+47,The Shawshank Redemption,972,2025-10-23 12:30:00,Brandon Johnson
+13,The Avengers,453,2025-10-23 12:40:00,David Allen
+6,The Avengers,1695,2025-10-23 12:50:00,Jessica Sherman
+74,The Godfather,1255,2025-10-23 13:00:00,Thomas Zimmerman
+68,The Godfather,1609,2025-10-23 13:10:00,Sara Stout
+16,The Wolf of Wall Street,488,2025-10-23 13:20:00,Holly Choi
+62,The Lord of the Rings,546,2025-10-23 13:30:00,Dana Turner
+81,Parasite,1431,2025-10-23 13:40:00,Antonio King
+18,Parasite,1307,2025-10-23 13:50:00,Katherine Booker
+85,The Lord of the Rings,1222,2025-10-23 14:00:00,Erika Brooks
+22,The Wolf of Wall Street,925,2025-10-23 14:10:00,John Potter
+82,The Lion King,1641,2025-10-23 14:20:00,Andrew Anderson
+26,The Lion King,1125,2025-10-23 14:30:00,Carlos Hamilton
+43,The Lord of the Rings,1325,2025-10-23 14:40:00,Stacey Rogers
+47,Inception,395,2025-10-23 14:50:00,Jeffery Olson
+89,The Shawshank Redemption,612,2025-10-23 15:00:00,Shirley Snow
+83,Gladiator,1611,2025-10-23 15:10:00,Justin Webster
+27,The Lord of the Rings,1502,2025-10-23 15:20:00,Christina White
+6,Star Wars: Episode V,821,2025-10-23 15:30:00,Jody Joyce
+83,Forrest Gump,559,2025-10-23 15:40:00,Kimberly Richardson
+2,Schindler's List,683,2025-10-23 15:50:00,Dylan Cruz
+46,Interstellar,1246,2025-10-23 16:00:00,Erin Martinez
+24,Forrest Gump,1154,2025-10-23 16:10:00,Paul Murphy
+12,The Dark Knight,1281,2025-10-23 16:20:00,Jesus Anderson
+40,Fight Club,321,2025-10-23 16:30:00,Amanda Mckenzie
+72,Parasite,263,2025-10-23 16:40:00,Ryan Williamson
+67,The Prestige,638,2025-10-23 16:50:00,Dana Brown
+86,Fight Club,173,2025-10-23 17:00:00,Michael Scott
+12,The Departed,1320,2025-10-23 17:10:00,Martha Morris
+52,Titanic,1793,2025-10-23 17:20:00,Kaitlyn Robles
+47,Inception,1658,2025-10-23 17:30:00,Angela Walsh
+2,Schindler's List,1273,2025-10-23 17:40:00,Robert Carroll
+34,Forrest Gump,581,2025-10-23 17:50:00,Brittany Stephenson
+1,The Departed,642,2025-10-23 18:00:00,Denise Adams
+13,Interstellar,425,2025-10-23 18:10:00,Michael Bryant
+51,Star Wars: Episode V,1416,2025-10-23 18:20:00,Cynthia Mcgee
+46,Parasite,1701,2025-10-23 18:30:00,Ryan Hurst
+44,The Matrix,738,2025-10-23 18:40:00,Mckenzie Ward
+73,Star Wars: Episode V,589,2025-10-23 18:50:00,Ashley Kim
+49,Parasite,795,2025-10-23 19:00:00,Jose Wise
+50,The Wolf of Wall Street,1778,2025-10-23 19:10:00,Sabrina Martin
+81,Parasite,1311,2025-10-23 19:20:00,Sandra Reed
+83,The Avengers,764,2025-10-23 19:30:00,Eric Meyer
+38,The Godfather,884,2025-10-23 19:40:00,Maureen Vincent
+16,Schindler's List,837,2025-10-23 19:50:00,Kelly Harvey
+77,Titanic,669,2025-10-23 20:00:00,Jennifer Bonilla
+89,The Lion King,562,2025-10-23 20:10:00,William Smith
+78,Schindler's List,442,2025-10-23 20:20:00,James Lee
+56,Titanic,455,2025-10-23 20:30:00,Anthony Richard
+47,Gladiator,1215,2025-10-23 20:40:00,Steven Ryan
+1,Schindler's List,937,2025-10-23 20:50:00,Matthew Adkins
+2,The Avengers,1311,2025-10-23 21:00:00,Kelsey Fields
+27,Star Wars: Episode V,1264,2025-10-23 21:10:00,Andrew Anderson
+2,The Avengers,465,2025-10-23 21:20:00,Robert Jordan
+34,The Shawshank Redemption,202,2025-10-23 21:30:00,Jamie Smith
+76,Star Wars: Episode V,639,2025-10-23 21:40:00,Alison Jackson
+13,Titanic,446,2025-10-23 21:50:00,Catherine Thompson
+66,The Shawshank Redemption,628,2025-10-23 22:00:00,Nichole Brewer
+4,The Departed,1260,2025-10-23 22:10:00,Jennifer Brown
+20,The Shawshank Redemption,1488,2025-10-23 22:20:00,Jennifer Duncan
+29,Inception,1010,2025-10-23 22:30:00,Marc Coleman
+58,Interstellar,1410,2025-10-23 22:40:00,Evan Davis
+20,The Wolf of Wall Street,1196,2025-10-23 22:50:00,Eric James
+45,Parasite,337,2025-10-23 23:00:00,Diamond Gilbert
+3,Gladiator,1541,2025-10-23 23:10:00,Brittney Gibson
+61,Pulp Fiction,1714,2025-10-23 23:20:00,Stephen Benjamin
+48,The Shawshank Redemption,174,2025-10-23 23:30:00,Lisa Price
+21,The Departed,1558,2025-10-23 23:40:00,John Morton
+54,The Avengers,324,2025-10-23 23:50:00,Robin Chandler
+9,The Wolf of Wall Street,222,2025-10-24 00:00:00,Heidi Zimmerman
+2,The Lion King,1181,2025-10-24 00:10:00,Francis Webb
+80,Forrest Gump,747,2025-10-24 00:20:00,Amanda Oneill
+2,The Departed,1633,2025-10-24 00:30:00,Dr. John Moreno
+36,The Lord of the Rings,1696,2025-10-24 00:40:00,Jason Mccormick
+11,The Prestige,1471,2025-10-24 00:50:00,Benjamin Hall
+80,The Lord of the Rings,818,2025-10-24 01:00:00,Chelsea Wilson
+55,The Shawshank Redemption,747,2025-10-24 01:10:00,John Walker
+32,Forrest Gump,1478,2025-10-24 01:20:00,Brian Adams
+66,Inception,489,2025-10-24 01:30:00,Mrs. Karen Matthews
+79,The Wolf of Wall Street,427,2025-10-24 01:40:00,Shawn Butler
+5,Interstellar,626,2025-10-24 01:50:00,Brandon Horn
+65,The Dark Knight,1570,2025-10-24 02:00:00,Patrick White
+9,Parasite,1573,2025-10-24 02:10:00,Deborah Smith
+42,The Lord of the Rings,511,2025-10-24 02:20:00,Christina Lopez
+58,Parasite,352,2025-10-24 02:30:00,John Smith
+8,The Prestige,1483,2025-10-24 02:40:00,Brian Martin
+53,Inception,205,2025-10-24 02:50:00,Jackson Garrett
+78,Pulp Fiction,674,2025-10-24 03:00:00,Guy Jackson
+30,The Lion King,943,2025-10-24 03:10:00,Frances Lee
+31,The Dark Knight,1194,2025-10-24 03:20:00,George Mills
+60,Interstellar,1389,2025-10-24 03:30:00,Jacqueline Bishop
+95,The Lord of the Rings,235,2025-10-24 03:40:00,Michael Henderson
+65,Forrest Gump,1623,2025-10-24 03:50:00,Sarah Johnson
+36,Star Wars: Episode V,159,2025-10-24 04:00:00,Brian Randall
+75,The Prestige,1132,2025-10-24 04:10:00,Heather Wood
+62,Gladiator,976,2025-10-24 04:20:00,Kathy Farmer
+20,Titanic,1539,2025-10-24 04:30:00,Joshua Williams
+23,Forrest Gump,657,2025-10-24 04:40:00,Richard Wilson
+7,Titanic,744,2025-10-24 04:50:00,Robert Turner
+96,The Godfather,1203,2025-10-24 05:00:00,Mary Ramos
+51,The Prestige,212,2025-10-24 05:10:00,Jonathan Myers
+94,The Shawshank Redemption,1761,2025-10-24 05:20:00,Cheryl Woods
+4,The Matrix,730,2025-10-24 05:30:00,Anthony Brown
+65,Pulp Fiction,110,2025-10-24 05:40:00,David Wright
+28,The Lion King,673,2025-10-24 05:50:00,Brian Steele
+42,The Matrix,1350,2025-10-24 06:00:00,Steven Mason
+22,Inception,1758,2025-10-24 06:10:00,Nathan Cole
+67,Inception,562,2025-10-24 06:20:00,Rebecca Johnson
+84,Pulp Fiction,1362,2025-10-24 06:30:00,Jeffrey Santos
+53,The Avengers,1330,2025-10-24 06:40:00,John Turner
+20,Titanic,157,2025-10-24 06:50:00,Eric Randolph
+5,Schindler's List,1234,2025-10-24 07:00:00,Jillian Smith
+88,The Dark Knight,364,2025-10-24 07:10:00,Kaitlyn Hall
+87,The Matrix,1796,2025-10-24 07:20:00,Karen Jordan
+41,The Dark Knight,1151,2025-10-24 07:30:00,Dr. Matthew Maxwell DDS
+100,The Dark Knight,760,2025-10-24 07:40:00,Megan Fernandez
+12,Inception,453,2025-10-24 07:50:00,Eric Howard
+68,Star Wars: Episode V,658,2025-10-24 08:00:00,April Lopez
+22,The Godfather,1431,2025-10-24 08:10:00,Audrey Martinez
+37,Pulp Fiction,203,2025-10-24 08:20:00,Morgan Buchanan
+54,The Wolf of Wall Street,414,2025-10-24 08:30:00,Cory Wade
+35,The Godfather,406,2025-10-24 08:40:00,Mary Day
+45,The Lord of the Rings,208,2025-10-24 08:50:00,Sandra Lee
+70,The Godfather,609,2025-10-24 09:00:00,Susan Cooper
+25,Fight Club,813,2025-10-24 09:10:00,Steven Pena
+19,Star Wars: Episode V,1613,2025-10-24 09:20:00,Christopher Coleman
+16,Schindler's List,1067,2025-10-24 09:30:00,Andrew Baker Jr.
+55,Interstellar,262,2025-10-24 09:40:00,Monica Evans
+98,Fight Club,753,2025-10-24 09:50:00,Betty Petersen
+46,The Prestige,148,2025-10-24 10:00:00,Monica Obrien
+41,Fight Club,84,2025-10-24 10:10:00,Ryan Alvarado
+67,Inception,1027,2025-10-24 10:20:00,Frederick Jones
+22,Pulp Fiction,945,2025-10-24 10:30:00,Michelle Dennis
+94,The Shawshank Redemption,1235,2025-10-24 10:40:00,Daniel Randall
+67,Forrest Gump,1136,2025-10-24 10:50:00,Christopher Pratt
+12,Forrest Gump,1744,2025-10-24 11:00:00,Robert Fowler
+16,Schindler's List,1126,2025-10-24 11:10:00,Cynthia Roberts
